@@ -27,6 +27,10 @@ public class WolfMountListener implements Listener {
 
         Player player = event.getPlayer();
 
+        if (!player.isSneaking()) {
+            return;
+        }
+
         if (!wolf.isTamed()) {
             return;
         }

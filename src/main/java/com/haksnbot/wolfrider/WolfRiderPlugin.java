@@ -15,7 +15,7 @@ public class WolfRiderPlugin extends JavaPlugin {
         moveHandler = new WolfMoveHandler(this);
         moveHandler.start();
 
-        getLogger().info("WolfRider enabled! Tame a wolf and right-click to ride.");
+        getLogger().info("WolfRider enabled! Tame a wolf and shift+right-click to ride.");
     }
 
     @Override
