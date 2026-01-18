@@ -1,0 +1,10 @@
+# WolfRider Configuration
+
+# Movement speed multiplier (1.0 = normal speed)
+ride-speed: 1.0
+
+# Require holding a bone in main hand to steer
+require-bone: true
+
+# Only allow the wolf's owner to ride it
+owner-only: true

@@ -1,0 +1,6 @@
+name: WolfRider
+version: '1.0.0'
+main: com.haksnbot.wolfrider.WolfRiderPlugin
+description: Ride your tamed wolves! Hold a bone to steer.
+api-version: '1.21'
+author: haksnbot
