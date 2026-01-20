@@ -27,7 +27,7 @@ public class WolfMountListener implements Listener {
 
         Player player = event.getPlayer();
 
-        if (!player.isSneaking()) {
+        if (!player.isSprinting()) {
             return;
         }
 

@@ -6,7 +6,7 @@ A Paper plugin that lets players ride their tamed wolves.
 
 ## Features
 
-- **Mount tamed wolves** - Shift+right-click your tamed wolf to hop on
+- **Mount tamed wolves** - Sprint+right-click (Ctrl+right-click) your tamed wolf to hop on
 - **Bone steering** - Hold a bone in your main hand to control movement
 - **Jump capability** - Look upward while riding to make your wolf leap
 - **Owner protection** - Only the wolf's owner can ride it (configurable)
@@ -26,7 +26,7 @@ A Paper plugin that lets players ride their tamed wolves.
 ## Usage
 
 1. Tame a wolf with bones (vanilla mechanic)
-2. Shift+right-click your tamed wolf to mount it
+2. Sprint+right-click (Ctrl+right-click) your tamed wolf to mount it
 3. Hold a bone in your main hand to steer
 4. Look in the direction you want to go
 5. Look upward (pitch < -30°) to jump
